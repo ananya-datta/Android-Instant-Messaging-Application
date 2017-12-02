@@ -1,4 +1,4 @@
-# Android-Instant-Messaging-Application
+# Example Android-Instant-Messaging-Application 
 Simple instant messaging android application
 
 This application is not working just beacause,
